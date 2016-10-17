@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.jro.tools.boby</groupId>
+  <artifactId>de.jro.tools.boby.repository</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20161017100220</lastUpdated>
+  </versioning>
+</metadata>
